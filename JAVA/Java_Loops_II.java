@@ -1,8 +1,8 @@
-package hackerrank;
+
 import java.util.*;
 import java.io.*;
 
-class  Java_Loops_II{
+class  Solution{
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);
         int t=in.nextInt();
